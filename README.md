@@ -1,6 +1,6 @@
 # an in-depth study of JavaScript
 
-- language specification: ECMAScript:        https://ecma-international.org/publications-and-standards/standards/ecma-262/
+- language specification: ECMAScript: https://ecma-international.org/publications-and-standards/standards/ecma-262/
 - language reference:
     - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
 - base modules index:
