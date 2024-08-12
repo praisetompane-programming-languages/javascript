@@ -1,6 +1,8 @@
-# an in-depth study of JavaScript
+# JavaScript
 
-- language specification: ECMAScript:        https://ecma-international.org/publications-and-standards/standards/ecma-262/
+**objective**: an in-depth study of JavaScript, its implementation and ecosystem.
+
+- language specification: ECMAScript: https://ecma-international.org/publications-and-standards/standards/ecma-262/
 - language reference:
     - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
 - base modules index:
