@@ -1,6 +1,6 @@
 # JavaScript
 
-**objective**: an in-depth study of JavaScript, its implementation and ecosystem.
+**objective**: An in-depth study of JavaScript's implementation and ecosystem.
 
 ## Language Details:
 - [language specification](https://ecma-international.org/publications-and-standards/standards/ecma-262/)
@@ -38,14 +38,19 @@
 - jest  
 
 ## Use Cases:
-- [Applications for Language]()
-- Large Implementations:
-- Database Integration:
-- Web Development:
+- [Applications for JavaScript]()
 
 ## Learning Resources:
-- [roadmap](https://roadmap.sh/javascript)
+- [JavaScript](https://roadmap.sh/javascript)
+- [TypeScript](https://roadmap.sh/typescript)
 - practice problems
+
+
+## Spell Check:
+
+```shell
+pnpm run lint
+```
 
 # References:
 

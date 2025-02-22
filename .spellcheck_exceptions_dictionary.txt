@@ -1,0 +1,28 @@
+# acronyms
+
+# authors
+Kernighan
+Ritchie
+praisetompane
+
+# concepts
+
+
+# course codes:
+
+
+# technology:
+yaml
+llvm
+pyspelling
+
+
+# institutions:
+roadmap
+pypi
+hackerrank
+
+
+# urls:
+https
+src
