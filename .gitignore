@@ -51,6 +51,9 @@ web_modules/
 # Optional npm cache directory
 .npm
 
+# pnpm
+.pnpm-store
+
 # Optional eslint cache
 .eslintcache
 
@@ -130,3 +133,4 @@ dist
 .pnp.*
 
 DS_Store
+.DS_Store
