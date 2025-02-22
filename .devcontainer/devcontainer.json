@@ -1,0 +1,13 @@
+{
+    "name": "javascript",
+    "image": "mcr.microsoft.com/vscode/devcontainers/javascript-node",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "dbaeumer.vscode-eslint",
+                "esbenp.prettier-vscode"
+            ],
+            "settings": {}
+        }
+    }
+}

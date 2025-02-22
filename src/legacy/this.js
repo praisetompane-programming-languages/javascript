@@ -5,7 +5,7 @@ let talk = function() {
 let boromir = {
   //speak: talk.bind(this),
   speak: talk,
-  sound: 'One does simly walk into mordor!'
+  sound: 'One does not simply walk into mordor!'
 }
 
 let gollum = {
