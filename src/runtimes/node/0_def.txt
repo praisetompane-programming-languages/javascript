@@ -34,8 +34,9 @@ properties (Dahl, 2011):
         - node waits until all calla=backs are resolved 
             before gracefull automatically existing
 
-alternatives:
-    Deno: https://github.com/denoland
+    src: https://github.com/nodejs/node
+
+    roadmap: https://roadmap.sh/nodejs
 
 References:
     Dahl, R. Introduction to Node.js with Ryan Dahl. 2011. https://www.youtube.com/watch?v=jo_B4LTHi3I
