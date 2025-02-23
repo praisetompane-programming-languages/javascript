@@ -1,9 +1,19 @@
 # JavaScript
 
-**objective**: An in-depth study of JavaScript's implementation and ecosystem.
+**objective**: An in-depth study of JavaScript's design, implementation and ecosystem.
 
 ## Language Details:
 - [language specification](https://ecma-international.org/publications-and-standards/standards/ecma-262/)
+- interpreter:
+    - runtimes:
+        - Firefox: SpiderMonkey
+        - Chrome: V8
+        - Microsoft: Chakra
+        - Apple: JavaScriptCore: https://trac.webkit.org/wiki/JavaScriptCore
+            - AKA:
+                - ​SquirrelFish and ​SquirrelFish Extreme
+                - Safari Context: Nitro and Nitro Extreme
+        - [node.js](src/runtimes/node)
 - [language reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 - [base modules index]()
 - [standard library reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
@@ -17,17 +27,6 @@
     - structuring projects:
 - [package index](https://www.npmjs.com)
 - [extending and embedding]()
-- compiler/interpreter:
-    - runtimes:
-        - Firefox: SpiderMonkey
-        - Chrome: V8
-        - Microsoft: Chakra
-        - Apple: JavaScriptCore: https://trac.webkit.org/wiki/JavaScriptCore
-            - AKA:
-                - ​SquirrelFish and ​SquirrelFish Extreme
-                - Safari Context: Nitro and Nitro Extreme
-        - Node
-            - uses Chrome: V8
 - [developer contribution guide]()
 - memory model:
 - history:
