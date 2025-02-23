@@ -1,6 +1,11 @@
 # JavaScript
 
-**objective**: An in-depth study of JavaScript's design, implementation and ecosystem.
+**objective**: An in-depth study of:
+- JavaScript's Intepreter:
+  - This focuses on:
+    - [V8](https://github.com/v8/v8)
+    - [Node](https://github.com/nodejs/node)
+- JavaScript's language design, implementation and ecosystem.
 
 ## Language Details:
 - [language specification](https://ecma-international.org/publications-and-standards/standards/ecma-262/)
