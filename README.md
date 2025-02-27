@@ -1,13 +1,15 @@
 # JavaScript
+![build status](https://github.com/praisetompane/javascript/actions/workflows/javascript.yaml/badge.svg) <br>
 
-**objective**: An in-depth study of:
-- JavaScript's Intepreter:
-  - This focuses on:
-    - [V8](https://github.com/v8/v8)
-    - [Node](https://github.com/nodejs/node)
-- JavaScript's language design, implementation and ecosystem.
+## Objectives 
+- An in-depth study of:
+    - JavaScript's Intepreter.
+    - This focuses on:
+        - [V8](https://github.com/v8/v8)
+        - [Node](https://github.com/nodejs/node)
+    - JavaScript's language design, implementation and ecosystem.
 
-## Language Details:
+## Language Details
 - [language specification](https://ecma-international.org/publications-and-standards/standards/ecma-262/)
 - interpreter:
     - runtimes:
@@ -38,24 +40,26 @@
     - ECMAScript v1: 1997
     - 2015+: annual release
 
-## Testing:
-- jest  
+## Testing
 
-## Use Cases:
+
+## Use Cases
 - [Applications for JavaScript]()
 
-## Learning Resources:
+## Learning Resources
 - [JavaScript](https://roadmap.sh/javascript)
 - [TypeScript](https://roadmap.sh/typescript)
 - practice problems
 
 
-## Spell Check:
-
+## Spell Check
 ```shell
 pnpm run lint
 ```
 
-# References:
+## Legend
+**Q**: Question for later research
+
+**MYINC**: My Insight/Conjecture [Could Be Unoriginal/False and Likely Is]
 
 **Disclaimer**: This is an ongoing and incomplete project to unpack these concepts and serve as my distributed memory.
